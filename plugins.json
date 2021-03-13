@@ -1,0 +1,8 @@
+[
+    {
+      "id": "Armory.EvaluateArtifactsPlugin",
+      "description": "This plugin provides support for evaluating SpEL expressions embedded in artifacts.",
+      "provider": "https://github.com/claymccoy",
+      "releases": []
+    }
+  ]
