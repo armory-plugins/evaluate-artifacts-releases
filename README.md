@@ -23,7 +23,7 @@ _It should be noted that the plugins framework for Spinnaker is still in active 
           plugins:
               Armory.EvaluateArtifactsPlugin:
                 enabled: true
-                version: 0.0.13
+                version: 0.0.4
                 extensions:
                   armory.evaluateArtifactsStage:
                     enabled: true
